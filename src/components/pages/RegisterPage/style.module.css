@@ -1,0 +1,51 @@
+.authHero {
+	min-height: calc(100vh - 72px);
+	background: linear-gradient(180deg, #f8fafc 0%, #eef5ff 100%);
+    
+
+}
+
+.authCard {
+	border: 1px solid #e5ecf5;
+	border-radius: 16px;
+    max-width: 600px;
+	box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
+
+.authEyebrow {
+	letter-spacing: 0.1em;
+	font-size: 0.72rem;
+	font-weight: 700;
+	color: #0d6efd;
+}
+
+.authTitle {
+	color: #1f2a37;
+	font-weight: 700;
+}
+
+.authSubtitle {
+	font-size: 0.97rem;
+}
+
+.submitBtn {
+	border: 0;
+	border-radius: 10px;
+	font-weight: 600;
+	padding-top: 0.65rem;
+	padding-bottom: 0.65rem;
+}
+
+.loginText {
+	font-size: 0.95rem;
+}
+
+.authLink {
+	color: #0d6efd;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.authLink:hover {
+	text-decoration: underline;
+}
